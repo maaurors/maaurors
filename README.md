@@ -1,16 +1,70 @@
-## Hi there 👋
 
-<!--
-**maaurors/maaurors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Mauro
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mauro-rivera-salinas/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-lightgrey)](https://tu-url)
+[![CV](https://img.shields.io/badge/CV-PDF-green)](https://tu-url)
+[![Email](https://img.shields.io/badge/Email-contacto-red)](maauro.rs@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ingeniero en Informática | Data Engineer | GCP-first  
+ETL/ELT con Python | Airflow | BigQuery | Dataflow | Cloud Run/Functions  
+Migración Pentaho→Python | Integraciones API | SFTP | Buenas prácticas de datos  
+Interés en ciberseguridad ofensiva ética y hardening de pipelines
+
+---
+
+## Tech stack
+- Lenguajes: Python, SQL, Bash
+- GCP: BigQuery, Dataflow, Cloud Run, Cloud Functions, Pub/Sub, Secret Manager, IAM
+- Orquestación: Airflow, Composer
+- Datos: pandas, pyarrow, BigQuery Storage API
+- DevOps: Docker, GitLab CI, Terraform (básico)
+- Otros: KNIME, Vertex AI (RAG/Chatbots)
+
+---
+
+## Lo que hago
+- Diseño y orquesto pipelines robustos de ingesta, transformación y entrega en GCP.
+- Migro jobs legados de Pentaho a Python contenedorizado ejecutando en Cloud Run.
+- Optimizo costos y rendimiento en BigQuery (particiones, clustering, jobs batch).
+- Construyo conectores API→BQ y exportadores BQ→SFTP con logging y trazabilidad.
+- Creo DAGs de Airflow auditables y reproducibles.
+
+---
+
+## Proyectos destacados
+- **airflow-dag-template-gcp**: plantilla productiva de DAG con sensores, retries, SLA y alertas.
+- **pentaho-to-python-cloudrun**: boilerplate para portar transformaciones a Python + Docker + Cloud Run.
+- **dataflow-bq-lakehouse**: pipeline de ingesta escalable (stream/batch) hacia BigQuery particionado.
+- **bq-storageapi-loader**: carga masiva con BigQuery Storage API y control de esquemas.
+- **sftp-exporter**: exportación de resultados a SFTP con control de nombres por período y logs.
+- **zeroq-reservas-etl-demo**: demo de integración API→CSV→BQ parametrizable por rango de fechas.
+- **vertex-rag-gcs**: chatbot interno con documentos en GCS y control de seguridad.
+- **risk-model-framework**: esqueleto versionado para modelos de riesgo reutilizables en una caja de compensación.
+
+> Publica cada repo con: README técnico, diagrama simple, `Makefile`/`invoke`, variables por `.env`, tests mínimos y dataset sintético.
+
+---
+
+## Métricas
+[![GitHub Streak](https://streak-stats.demolab.com?user=maaurors&hide_border=true&border_radius=6&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+---
+
+## Publicaciones y notas
+- Pentaho→Python en GCP: decisiones, anti-patrones y playbook de migración.
+- Cost-aware BigQuery: partición vs clustering y slots vs on-demand.
+- Airflow en producción: idempotencia, reintentos y data lineage útil.
+
+---
+
+## Formación
+- Cursos/bootcamps: Python (Desafío Latam), Airflow, Dataflow, Seguridad Ofensiva básica.
+- Cursando Ingeieria en Informática.
+- Lecturas técnicas y laboratorios propios publicados en `docs/` de cada repo.
+
+---
+
+## Contacto
+LinkedIn, email y disponibilidad para colaborar en proyectos de datos y automatización.
