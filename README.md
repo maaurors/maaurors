@@ -2,7 +2,7 @@
 # Hola, soy Mauro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/mauro-rivera-salinas/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-lightgrey)](https://tu-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-lightgrey)](https://maaurors.github.io/)
 [![CV](https://img.shields.io/badge/CV-PDF-green)](https://github.com/maaurors/CV/blob/main/docs/Mauro_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-contacto-red)](mailto:Maauro.rs@gmail.com)
 
@@ -50,6 +50,7 @@ Interés en ciberseguridad ofensiva ética y hardening de pipelines
 ## Métricas
 [![GitHub Streak](https://streak-stats.demolab.com?user=maaurors&hide_border=true&border_radius=6&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ---
 
