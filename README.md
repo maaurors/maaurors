@@ -14,7 +14,7 @@ Interés en ciberseguridad ofensiva ética y hardening de pipelines
 ---
 
 ## Tech stack
-- Lenguajes: Python, SQL, Bash
+- Lenguajes: Python, SQL, Bash, javascript, C#
 - GCP: BigQuery, Dataflow, Cloud Run, Cloud Functions, Pub/Sub, Secret Manager, IAM
 - Orquestación: Airflow, Composer
 - Datos: pandas, pyarrow, BigQuery Storage API
