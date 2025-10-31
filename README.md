@@ -49,9 +49,6 @@ Interés en ciberseguridad ofensiva ética y hardening de pipelines
 ## Métricas
 [![GitHub Streak](https://streak-stats.demolab.com?user=maaurors&hide_border=true&border_radius=6&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maauros&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=javascript,glsl,c%2B%2B&custom_title=Lenguajes%20m%C3%A1s%20usados&size_weight=0.4&count_weight=0.6&v=2)
-
-
 ---
 
 ## Publicaciones y notas
